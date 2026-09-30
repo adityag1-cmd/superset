@@ -593,7 +593,7 @@ numpy==1.26.4
     #   pandas
     #   pandas-gbq
     #   prophet
-oauthlib==3.2.2
+oauthlib==4.0.0
     # via requests-oauthlib
 odfpy==1.4.1
     # via
@@ -1093,7 +1093,7 @@ url-normalize==2.2.1
     # via
     #   -c requirements/base-constraint.txt
     #   requests-cache
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   -c requirements/base-constraint.txt
     #   botocore
@@ -1130,7 +1130,7 @@ websocket-client==1.8.0
     #   selenium
 websockets==15.0.1
     # via fastmcp-slim
-werkzeug==3.1.6
+werkzeug==3.1.9
     # via
     #   -c requirements/base-constraint.txt
     #   flask
