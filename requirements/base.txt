@@ -52,7 +52,7 @@ cattrs==25.1.1
     # via requests-cache
 celery==5.6.3
     # via apache-superset (pyproject.toml)
-certifi==2026.5.20
+certifi==2026.10.19
     # via
     #   requests
     #   selenium
