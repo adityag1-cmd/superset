@@ -593,7 +593,7 @@ numpy==1.26.4
     #   pandas
     #   pandas-gbq
     #   prophet
-oauthlib==3.2.2
+oauthlib==4.0.0
     # via requests-oauthlib
 odfpy==1.4.1
     # via
