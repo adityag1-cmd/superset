@@ -215,7 +215,7 @@ dill==0.4.0
     # via pylint
 distlib==0.3.8
     # via virtualenv
-dnspython==2.7.0
+dnspython==2.9.2
     # via
     #   -c requirements/base-constraint.txt
     #   email-validator
@@ -670,7 +670,7 @@ pgsanity==0.2.9
     # via
     #   -c requirements/base-constraint.txt
     #   apache-superset
-pillow==12.3.0
+pillow==13.0.0
     # via
     #   -c requirements/base-constraint.txt
     #   apache-superset
